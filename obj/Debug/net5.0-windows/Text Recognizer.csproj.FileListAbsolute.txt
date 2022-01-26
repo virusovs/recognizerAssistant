@@ -1,0 +1,40 @@
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.exe
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.deps.json
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.runtimeconfig.json
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.runtimeconfig.dev.json
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\ref\Text Recognizer.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Text Recognizer.pdb
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.csproj.AssemblyReference.cache
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text_Recognizer.Form1.resources
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text_Recognizer.Properties.Resources.resources
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.csproj.GenerateResource.cache
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.AssemblyInfoInputs.cache
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.AssemblyInfo.cs
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.csproj.CoreCompileInputs.cache
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\ref\Text Recognizer.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.pdb
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.genruntimeconfig.cache
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\bin\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\Институт\7семестр\СистемиШтучногоІнтелекту\Курсова\TextRecognizer\Text Recognizer\obj\Debug\net5.0-windows\Text Recognizer.csproj.CopyComplete
